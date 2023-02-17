@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "169671440533",
+    "project_id": "my-app-02-03-2022",
+    "storage_bucket": "my-app-02-03-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169671440533:android:6f6d9598005de9f128039c",
+        "android_client_info": {
+          "package_name": "com.BaneneApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169671440533-7obohhpkqv031dcohh9r2mhuqgv86op3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ9KkZ9CZ_52t8UhBwgG8c2ElJJnKn81c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169671440533-7obohhpkqv031dcohh9r2mhuqgv86op3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "169671440533-2e3ls3j3umi0kbv6i8hi6ebhiftksggp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.BaneneApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
